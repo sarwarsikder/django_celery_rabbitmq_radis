@@ -1,0 +1,17 @@
+./.ipynb_checkpoints
+/.idea
+__pycache__/
+venv
+*.jsonlines
+*.ndjson
+*.ipynb
+/env/
+
+# macOS generated files #
+######################
+.DS_Store?
+ehthumbs.db
+._*
+# Icon?
+Thumbs.db
+db.sqlite3
