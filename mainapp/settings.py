@@ -126,9 +126,9 @@ CELERY_BROKER_URL = 'amqp://localhost'
 
 
 # Mail server settings
-EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-EMAIL_HOST = 'smtp.sendgrid.net'
+EMAIL_BACKEND = ''
+EMAIL_HOST = ''
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'apikey'
-EMAIL_HOST_PASSWORD = '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'
+EMAIL_HOST_USER = ''
+EMAIL_HOST_PASSWORD = ''
 EMAIL_USE_TLS = True
